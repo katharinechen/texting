@@ -1,12 +1,15 @@
 WORKING ON:
-- [ ] add seed.rb 
-- [ ] add strong params for new users so it can pass validations 
-- [ ] creating form 
-- [ ] don't give errors on the log in page (when there is an error)
-
-TODOLIST
 
 - [ ] As a user, I want to send a text message to a phone number, so that I can send texts from the web. Hint: Follow along with the lesson.
+
+- [ ] add strong params for new users so it can pass validations 
+- [ ] creating form 
+- [ ] carybara test for users 
+- [ ] don't give errors on the log in page (when there is an error)
+
+9712480757
+
+TODOLIST
 
 - [ ] As a user, I want to save contacts to an address book, so that it's easy to text them again without re-typing their phone number.
 

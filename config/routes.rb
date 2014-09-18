@@ -3,8 +3,6 @@ Rails.application.routes.draw do
 
   root :to => "application#index"
 
-  resources :contacts do
-    resources :messages
-  end
-
+  resources :contacts
+  resources :messages
 end

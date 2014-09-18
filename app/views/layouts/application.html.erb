@@ -11,6 +11,9 @@
 </head>
 <body>
 
+  <%= flash[:notice] %>
+  <%= flash[:alert] %> 
+
   <%= render('layouts/navbar.html.erb') %>
   <%= yield %>
 
