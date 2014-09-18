@@ -1,6 +1,7 @@
 WORKING ON:
 - [ ] creating form
 - [ ] write specs for users
+- [ ] fix tests for messages (write object Message properly)
 
 TODOLIST
 
