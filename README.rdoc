@@ -1,8 +1,8 @@
 WORKING ON:
-- [ ] creating a navbar 
 - [ ] add seed.rb 
 - [ ] add strong params for new users so it can pass validations 
 - [ ] creating form 
+- [ ] don't give errors on the log in page (when there is an error)
 
 TODOLIST
 
