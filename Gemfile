@@ -24,6 +24,9 @@ group :test, :development do
   gem 'capybara'
   gem 'dotenv-rails'
   gem 'pry'
+  gem 'vcr'
+  gem 'webmock'
+  gem 'factory_girl_rails'
 end
 
 group :test do

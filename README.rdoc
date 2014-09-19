@@ -1,13 +1,10 @@
 WORKING ON:
 
-- [ ] As a user, I want to send a text message to a phone number, so that I can send texts from the web. Hint: Follow along with the lesson.
-
-- [ ] add strong params for new users so it can pass validations 
-- [ ] creating form 
 - [ ] carybara test for users 
+- [ ] user factorygirlrails  
+- [ ] fix validations for Message 
 - [ ] don't give errors on the log in page (when there is an error)
 
-9712480757
 
 TODOLIST
 
@@ -34,4 +31,6 @@ If you have trouble receiving callbacksfrom Twilio, make sure to check out the T
 
 Phew!
 
-As a user who sends a text message from the web, I want texts sent to my Twilio number in an online inbox, so I can see what people want to tell me. Note: this replaces the previous feature of auto-replying to texts with a canned response.
+- [ ] As a user who sends a text message from the web, I want texts sent to my Twilio number in an online inbox, so I can see what people want to tell me. Note: this replaces the previous feature of auto-replying to texts with a canned response.
+
+- [ ] Fix design for flash notifications 
