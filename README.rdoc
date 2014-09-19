@@ -1,6 +1,6 @@
 WORKING ON:
 
-- [ ] fix validations for Message 
+
 
 
 TODOLIST
