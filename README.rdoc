@@ -1,9 +1,6 @@
 WORKING ON:
 
-- [ ] carybara test for users 
-- [ ] user factorygirlrails  
 - [ ] fix validations for Message 
-- [ ] don't give errors on the log in page (when there is an error)
 
 
 TODOLIST
